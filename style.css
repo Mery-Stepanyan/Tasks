@@ -1,0 +1,11 @@
+body {
+	background-color: #FBFFF0;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
